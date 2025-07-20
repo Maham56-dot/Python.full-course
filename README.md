@@ -1,2 +1,2 @@
 # Python.full-course
-This is the in which I have practiced my python. First time.
+My practiced Python course with step by step lesson.
